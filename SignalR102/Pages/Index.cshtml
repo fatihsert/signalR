@@ -1,0 +1,27 @@
+﻿@page
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-4">User : <input type="text" id="txtUserName" />   <input type="button" id="btnJoin" value="Join " /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-8 border border-primary overflow-auto" style="height:400px;font-size:30px;" id="content">        </div>
+        <div class="col-4 border border-info px-md-5    ">
+            <ul class="list-group">
+                <li class="list-group-item">Fatih Sert/@@123-qsdf</li>
+                <li class="list-group-item">mahmut/@@12312-qsdf</li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>

@@ -1,0 +1,8 @@
+﻿*katılımcıları bağlansın
+*. katılımcıları listele
+2. ortak bir metin oluştur.
+3. bir katılımcının scroll yaptığını diğer görsün
+
+zorlu
+4.highlight ettiğini diğer görsün
+5. grup yönetici olsun
