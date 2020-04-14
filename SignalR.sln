@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR101", "SignalR101\Si
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR102", "SignalR102\SignalR102.csproj", "{00B2E0C2-26F6-406F-85BE-D294E64772C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR103Video", "SignalR103Video\SignalR103Video.csproj", "{BA908454-FF7A-4B9B-A82D-8451C690798D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR103Video", "SignalR103Video\SignalR103Video.csproj", "{BA908454-FF7A-4B9B-A82D-8451C690798D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR104User", "SignalR104User\SignalR104User.csproj", "{9ECA01CA-D911-4BC8-8D10-781DAE043ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BA908454-FF7A-4B9B-A82D-8451C690798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA908454-FF7A-4B9B-A82D-8451C690798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA908454-FF7A-4B9B-A82D-8451C690798D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECA01CA-D911-4BC8-8D10-781DAE043ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECA01CA-D911-4BC8-8D10-781DAE043ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECA01CA-D911-4BC8-8D10-781DAE043ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECA01CA-D911-4BC8-8D10-781DAE043ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

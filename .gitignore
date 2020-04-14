@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SignalR104User/bin/Debug/netcoreapp3.1
+/SignalR104User/obj/Debug/netcoreapp3.1
+/SignalR104User/wwwroot/lib/bootstrap/dist
+/SignalR104User/wwwroot/lib
+/SignalR104User/obj

@@ -20,7 +20,6 @@ namespace SignalR101.Hubs
         {
             Task connected = base.OnConnectedAsync();
 
-
             return connected;
         }
         
